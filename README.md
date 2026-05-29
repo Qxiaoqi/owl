@@ -4,15 +4,14 @@ Owl 是一个本地运行的面试分析工作台。它把 JD、候选人简历�
 
 **让简历分析，变成高质量面试。**
 
-![Owl 简历详情与面试问题抽屉](public/03-candidate-a-question-drawer.png)
+![Owl 产品演示](public/owl-demo.gif)
 
 ## Demo
 
 演示视频展示了从 JD 工作区、候选人列表、简历标注、面试问题抽屉到详细报告的核心流程。
 
-<video src="public/owl-demo.mp4" controls width="100%"></video>
+上方 GIF 是压缩预览版，完整 MP4 可以直接打开：
 
-如果当前 Markdown 渲染器不支持内嵌视频，可以直接打开：
 [public/owl-demo.mp4](public/owl-demo.mp4)
 
 ## 核心能力
