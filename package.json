@@ -11,19 +11,22 @@
   "dependencies": {
     "@langchain/core": "^1.1.48",
     "@langchain/langgraph": "^1.3.2",
-    "lucide-react": "latest",
-    "mammoth": "latest",
-    "next": "latest",
+    "lucide-react": "^1.16.0",
+    "mammoth": "^1.12.0",
+    "next": "^16.2.6",
     "pdfjs-dist": "^5.7.284",
-    "react": "latest",
-    "react-dom": "latest",
-    "zod": "latest"
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
     "playwright": "^1.60.0",
-    "typescript": "latest"
+    "typescript": "^6.0.3"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
   }
 }
